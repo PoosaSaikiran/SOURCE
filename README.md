@@ -7,7 +7,7 @@ c
 cx
 c
 ccxx
-ccx
+ccxx
 x
 x
 xx
