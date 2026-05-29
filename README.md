@@ -2,7 +2,7 @@
 c
 c
 c
-cc
+ccd
 c
 cxxd
 cx
