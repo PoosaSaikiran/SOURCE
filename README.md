@@ -6,7 +6,7 @@ cc
 c
 cxx
 cx
-ccxxd
+ccxxdd
 ccxx
 xx
 x
