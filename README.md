@@ -4,7 +4,7 @@ c
 c
 cc
 c
-c
+cx
 c
 ccxx
 ccx
