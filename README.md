@@ -5,7 +5,7 @@ c
 cc
 c
 cx
-c
+cx
 ccxx
 ccxx
 x
