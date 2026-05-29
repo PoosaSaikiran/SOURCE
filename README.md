@@ -6,6 +6,6 @@ cc
 c
 c
 c
-cc
+ccx
 cc
 x
