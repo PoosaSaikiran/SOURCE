@@ -7,5 +7,5 @@ c
 c
 c
 ccx
-cc
+ccx
 x
