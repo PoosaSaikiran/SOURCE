@@ -1,10 +1,10 @@
-g# SOURCE
+gg# SOURCE
 
 f
 f
 fg
 dg
-gg
+ggf
 g
 gg
 g
