@@ -6,5 +6,5 @@ f
 d
 gg
 g
-g
+gg
 g
