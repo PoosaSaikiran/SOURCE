@@ -3,7 +3,7 @@ g# SOURCE
 f
 f
 fg
-d
+dg
 gg
 g
 gg
