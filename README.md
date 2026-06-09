@@ -1,12 +1,2 @@
-dddr#SOURCE
-r
-r
-r
-r
-r
-rrr
-rd
-rrr
-rrd
-r
-d
+#SOURCE
+
