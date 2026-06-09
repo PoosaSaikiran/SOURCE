@@ -2,7 +2,7 @@ g# SOURCE
 
 f
 f
-f
+fg
 d
 gg
 g
