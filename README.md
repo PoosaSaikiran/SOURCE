@@ -1,10 +1,2 @@
 #SOURCE
 
-RFT
-R
-RRFF
-R
-R
-R
-GG
-F
