@@ -6,5 +6,5 @@ RRFF
 R
 R
 R
-G
+GG
 F
