@@ -1,7 +1,1 @@
 #SOURCE
-E
-E
-E
-F
-F
-F
