@@ -1,15 +1,1 @@
 #SOURCE
-t
-t
-t
-t
-t
-t
-tg
-t
-gg
-ggf
-ggg
-g
-g
-g
