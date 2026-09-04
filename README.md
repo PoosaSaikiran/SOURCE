@@ -1,10 +1,1 @@
 #SOURCE
-l
-j
-j
-g
-g
-g
-g
-g
-g
