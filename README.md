@@ -1,16 +1,1 @@
 #SOURCE
-l
-l
-l
-l
-l
-l
-l
-lju
-l
-ku
-uuu
-u
-u
-u
-u
