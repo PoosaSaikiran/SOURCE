@@ -1,15 +1,1 @@
 #SOURCE
-i
-i
-i
-i
-i
-k
-k
-k
-k
-kh
-k
-k
-g
-h
